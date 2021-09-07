@@ -5,7 +5,9 @@
 
 Requisitos recomendados para o VScode:
 1.6 GHz ou superior Processador
+
 1 GB de RAM
+
 1 GB de espaço em disco
 
 Instalando o VScode:
@@ -13,27 +15,13 @@ Acesse o seguinte site e faça o download da aplicação
 https://code.visualstudio.com
 
 
-```markdown
-Syntax highlighted code block
-
-# Felipe Zorzo
-## Felipe Zonzo
-### Felipe Algo!
+### Instalando o interpretador Python
+Caso você esteja utilizando o Windows 10, é possível baixar diretamente da Microsoft Store, basta pesquisar Python, baixar e instalar.
+![image](https://user-images.githubusercontent.com/65428645/132421334-a462f79e-b4d1-475a-a0e3-5f790797b396.png)
 
 
-[image](https://user-images.githubusercontent.com/65428645/132420702-30c55350-d127-4f49-9762-f4412009dc54.png)
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
