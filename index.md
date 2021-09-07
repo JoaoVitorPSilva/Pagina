@@ -1,7 +1,7 @@
 # Primeiros passos oficina Python: Instalando o VScode e o interpretador python
 
 
-# Instalando e configurando o VSCode
+## Instalando e configurando o VSCode
 
 Requisitos recomendados para o VScode:
 
