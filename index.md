@@ -1,4 +1,4 @@
-## Primeiros passos oficina Python: Instalando o VScode e o interpretador python
+# Primeiros passos oficina Python: Instalando o VScode e o interpretador python
 
 
 ### Instalando e configurando o VSCode
@@ -46,7 +46,7 @@ Para instalar uma extensão, clique no botão circulado em vermelho e pesquise o
 
 ![image](https://user-images.githubusercontent.com/65428645/132422586-9d505263-d8f4-49d0-af26-e7cf4f2ae8a7.png)
 
-## As seguintes extensões são necessárias para o projeto:
+# As seguintes extensões são necessárias para o projeto:
 
 HTML snipperts
 
