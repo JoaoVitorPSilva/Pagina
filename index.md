@@ -4,6 +4,7 @@
 ### Instalando e configurando o VSCode
 
 Requisitos recomendados para o VScode:
+
 1.6 GHz ou superior Processador
 
 1 GB de RAM
