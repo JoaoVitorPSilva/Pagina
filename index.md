@@ -11,7 +11,7 @@ Requisitos recomendados para o VScode:
 
 1 GB de espaço em disco
 
-Instalando o VScode:
+### Instalando o VScode:
 Acesse o seguinte site e faça o download da aplicação
 https://code.visualstudio.com
 
@@ -20,16 +20,25 @@ https://code.visualstudio.com
 Caso você esteja utilizando o Windows 10, é possível baixar diretamente da Microsoft Store, basta pesquisar Python, baixar e instalar.
 ![image](https://user-images.githubusercontent.com/65428645/132421334-a462f79e-b4d1-475a-a0e3-5f790797b396.png)
 
+É possível também baixar diretamente do seguinte site:
+https://www.python.org/downloads/
+
+
+Para verificar se foi instalado corretamente, abra o CMD e digite “python”.
+a seguinte mensagem ou algo similar deve aparecer
+![image](https://user-images.githubusercontent.com/65428645/132421891-90983d94-338b-4de3-b8e8-6d0d94c0c056.png)
+
+ou também digitando “py -3 --version”
+![image](https://user-images.githubusercontent.com/65428645/132421947-c9258cc8-61fd-489a-b468-09e72400d1a0.png)
+
+### Instalando o Framework Django no VScode:
+
+Para instalar e testar o Django, acesse o seguinte site e siga os passos:
+
+https://code.visualstudio.com/docs/python/tutorial-django
 
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoaoVitorPSilva/testepagina/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
