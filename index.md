@@ -45,19 +45,18 @@ O site está em inglês, mas é possível fazer a tradução usando a função d
 Para instalar uma extensão, clique no botão circulado em vermelho e pesquise o nome da extensão desejada
 
 ![image](https://user-images.githubusercontent.com/65428645/132422586-9d505263-d8f4-49d0-af26-e7cf4f2ae8a7.png)
+
 As seguintes extensões são necessárias para o projeto:
 
 HTML snipperts
+
 JavaScript(ES)¨code snippets
+
 Juppyter
+
 Python
+
 vscode-icons
-
-
-
-
-
-
 
 ### Instalando o Framework Django no VScode:
 
