@@ -26,9 +26,11 @@ https://www.python.org/downloads/
 
 Para verificar se foi instalado corretamente, abra o CMD e digite “python”.
 a seguinte mensagem ou algo similar deve aparecer
+
 ![image](https://user-images.githubusercontent.com/65428645/132421891-90983d94-338b-4de3-b8e8-6d0d94c0c056.png)
 
 ou também digitando “py -3 --version”
+
 ![image](https://user-images.githubusercontent.com/65428645/132421947-c9258cc8-61fd-489a-b468-09e72400d1a0.png)
 
 ### Instalando o Framework Django no VScode:
